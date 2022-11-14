@@ -1,2 +1,4 @@
 # calculator
-creating normal calculator using HTML, CSS, &amp; JavaScript
+creating normal calculator for doing mathematical calculation using HTML, CSS, &amp; JavaScript
+
+link -->> 
